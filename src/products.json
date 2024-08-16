@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "The Book",
+    "description": "Blah blah",
+    "img": "blac",
+    "link": "url"
+  },
+  {
+    "id": 2,
+    "name": "Storage Containers",
+    "description": "The viral cucumber salad container",
+    "img": "https://m.media-amazon.com/images/I/81axhdo9sFL._AC_SX679_.jpg",
+    "link": "url"
+  }
+]
