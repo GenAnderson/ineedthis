@@ -2,7 +2,21 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 body,
 html {
-  width: 100vw;
   box-sizing: border-box;
   margin: 0;
+  font-family: "Protest Riot";
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+.card:hover {
+  transition: 0.1s ease;
+  transform: translate(0.2rem, 0.2rem);
 }
