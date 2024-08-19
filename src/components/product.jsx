@@ -8,13 +8,25 @@ const Product = ({ product }) => {
       className={"m-2"}
       style={{
         width: "15rem",
-        backgroundColor: "#388697",
-        boxShadow: "#333 .1rem .2rem .2rem",
+        backgroundColor: "#fdfdff",
+        boxShadow: "black .1rem .1rem .3rem",
+        border: "black solid .2rem",
       }}
     >
-      <a key={id} href={url} className="product-box">
+      <a
+        key={id}
+        href={url}
+        className="product-box"
+        target="_blank"
+        rel="noreferrer"
+      >
         <Card.Img
-          style={{ height: "10rem", objectFit: "contain" }}
+          style={{
+            height: "10rem",
+            objectFit: "cover",
+            borderRadius: "3%",
+            boxShadow: "black .1rem .1rem .3rem",
+          }}
           variant="top"
           src={img}
           alt={name}
@@ -22,10 +34,7 @@ const Product = ({ product }) => {
         ></Card.Img>
         <Card.Body
           style={{
-            backgroundColor: "white",
-            border: ".1rem solid #333",
-            boxShadow: "#333 .1rem .1rem .1rem",
-            borderRadius: "5%",
+            color: "black",
           }}
           className="m-2"
         >

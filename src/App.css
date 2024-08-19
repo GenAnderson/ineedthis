@@ -1,0 +1,38 @@
+.App {
+  background-image: url("./abstract.jpg");
+  background-color: #534ba0;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.banner {
+  background-image: url("./banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding: 10rem;
+  box-shadow: #333 0.2rem 0.2rem 0.2rem;
+  color: #fdfdff;
+
+  border-radius: 1rem;
+}
+
+.banner-header {
+  font-size: 5rem;
+  text-transform: uppercase;
+}
+
+.banner-desc {
+  font-size: 1.6rem;
+  font-style: italic;
+}

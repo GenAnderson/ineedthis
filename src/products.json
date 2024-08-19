@@ -4,13 +4,125 @@
     "name": "The Book",
     "description": "If you're a book lover and love art, you need to get this!",
     "img": "https://m.media-amazon.com/images/I/51Ts31WIrdL._SY445_SX342_.jpg",
-    "link": "url"
+    "url": "https://amzn.to/3YS94MC"
   },
   {
     "id": 2,
     "name": "Storage Containers",
     "description": "The viral cucumber salad container",
     "img": "https://m.media-amazon.com/images/I/81axhdo9sFL._AC_SX679_.jpg",
-    "link": "url"
+    "url": "https://amzn.to/4cyszg8"
+  },
+  {
+    "id": 3,
+    "name": "Portable Waist Fan",
+    "description": "Rechargable Fan, perfect for camping and outdoors",
+    "img": "https://m.media-amazon.com/images/I/71GgF5VWRlL._AC_SX679_.jpg",
+    "url": "https://amzn.to/470qokr"
+  },
+  {
+    "id": 4,
+    "name": "Ashwagandha gummies",
+    "description": "Goli Ashwagandha & Vitamin D Gummies",
+    "img": "https://m.media-amazon.com/images/I/51bzjS+-dIL._SX679_.jpg",
+    "url": "https://amzn.to/4dQdHuQ"
+  },
+  {
+    "id": 5,
+    "name": "Stanley Cups",
+    "description": "Just pick your color and your all set",
+    "img": "https://m.media-amazon.com/images/I/61aEoyjCA1L._AC_SX679_.jpg",
+    "url": "https://amzn.to/3yW7Bdn"
+  },
+  {
+    "id": 6,
+    "name": "Mighty Patch for Acne",
+    "description": "Hydrocolloid Pimple patch covers for zits and blemishes",
+    "img": "https://m.media-amazon.com/images/I/51YlAYwPx6L._SX679_.jpg",
+    "url": "https://amzn.to/3SXfg1X"
+  },
+  {
+    "id": 7,
+    "name": "True Classic T-Shirt",
+    "description": "The shirt that hugs your arms & shoulders, with a flattering fit for dads",
+    "img": "https://m.media-amazon.com/images/I/615u9XDopwL._AC_SX569_.jpg",
+    "url": "https://amzn.to/3X95Xyr"
+  },
+  {
+    "id": 8,
+    "name": "Pacifica Beauty Serum",
+    "description": "Glow Baby Booster Serum w/ Vitamin C & Glycolic Acid",
+    "img": "https://m.media-amazon.com/images/I/61AGSWhNxhL._SX679_.jpg",
+    "url": "https://amzn.to/4dqRbc7"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Projector",
+    "description": "1080P Bluetooth Portable Outdoor Movie Projector",
+    "img": "https://m.media-amazon.com/images/I/81Xv6ijl7+L._AC_SX679_.jpg",
+    "url": "https://amzn.to/4dwCbcI"
+  },
+  {
+    "id": 10,
+    "name": "Oil Sprayer Bottle",
+    "description": "16oz Oil Dispenser Bottle",
+    "img": "https://m.media-amazon.com/images/I/717UVXCru6L._AC_SX679_.jpg",
+    "url": "https://amzn.to/4cxFlM5"
+  },
+  {
+    "id": 11,
+    "name": "Astronaut Projector Galaxy Night Light",
+    "description": "Perfect galaxy night light for kids with timer and remote",
+    "img": "https://m.media-amazon.com/images/I/71UPpowpzcL._AC_SX679_PIbundle-3,TopRight,0,0_SH20_.jpg",
+    "url": "https://amzn.to/3SURl3i"
+  },
+  {
+    "id": 12,
+    "name": "Capybara Plush Toy",
+    "description": "Comes with a removable turtle backpack",
+    "img": "https://m.media-amazon.com/images/I/71Zp2HGF5OL._AC_SX466_.jpg",
+    "url": "https://amzn.to/4dOFFqD"
+  },
+  {
+    "id": 13,
+    "name": "Womens Sundress",
+    "description": "Summer floral short sleeve v-neck",
+    "img": "https://m.media-amazon.com/images/I/91HCZgeKfjL._AC_SY741_.jpg",
+    "url": "https://amzn.to/46UfpsP"
+  },
+  {
+    "id": 14,
+    "name": "Water dental flosser teeth pick",
+    "description": "Portable cordless rechargable",
+    "img": "https://m.media-amazon.com/images/I/71jBnIlH7QL._SX679_.jpg",
+    "url": "https://amzn.to/3X9VTW1"
+  },
+  {
+    "id": 15,
+    "name": "Aula F75 Mechanical Keyboard",
+    "description": "Gasket Hot Swappable Custom Keyboard",
+    "img": "https://m.media-amazon.com/images/I/61T79euEq2L._AC_SX679_.jpg",
+    "url": "https://amzn.to/4csDmZv"
+  },
+  {
+    "id": 16,
+    "name": "Electric Spin Scrubber",
+    "description": "Power scrubber for household cleaning",
+    "img": "https://m.media-amazon.com/images/I/91gQJMVnnyL._AC_SX679_.jpg",
+    "url": "https://amzn.to/4dMZRcD"
+  },
+  {
+    "id": 17,
+    "name": "Pet Grooming Kit with Vacuum",
+    "description": "oneisall Pet Vacuum with pet clipper nail grinder",
+    "img": "https://m.media-amazon.com/images/I/71A08netXgL._AC_SX466_.jpg",
+    "url": "https://amzn.to/3YPQCUA"
+  },
+  {
+    "id": 18,
+    "name": "Collagen Mask",
+    "description": "Hydrating overnight hydrogel mask",
+    "img": "https://m.media-amazon.com/images/I/51zgrgugoJL._SX679_.jpg",
+    "url": "https://amzn.to/3MxcQDP"
   }
 ]
