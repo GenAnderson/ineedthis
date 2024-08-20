@@ -1,0 +1,17 @@
+.card {
+  width: 15rem;
+  background-color: #fdfdff;
+  box-shadow: black 0.1rem 0.1rem 0.3rem;
+  border: black solid 0.2rem;
+}
+
+.card:hover {
+  transition: 0.1s ease;
+  transform: translate(0.2rem, 0.2rem);
+}
+
+@media (max-width: 36em) {
+  .card {
+    width: 90%;
+  }
+}

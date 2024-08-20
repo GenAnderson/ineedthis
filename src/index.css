@@ -18,8 +18,3 @@ a {
 a:hover {
   cursor: pointer;
 }
-
-.card:hover {
-  transition: 0.1s ease;
-  transform: translate(0.2rem, 0.2rem);
-}

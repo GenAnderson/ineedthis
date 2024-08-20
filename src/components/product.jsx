@@ -1,18 +1,11 @@
 import Card from "react-bootstrap/Card";
+import "./product.css";
 
 const Product = ({ product }) => {
   const { id, name, description, img, url } = product;
 
   return (
-    <Card
-      className={"m-2"}
-      style={{
-        width: "15rem",
-        backgroundColor: "#fdfdff",
-        boxShadow: "black .1rem .1rem .3rem",
-        border: "black solid .2rem",
-      }}
-    >
+    <Card className={"m-2"}>
       <a
         key={id}
         href={url}
